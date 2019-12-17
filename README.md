@@ -55,3 +55,58 @@
 <h3>If you have time, you should read more about him <a href="https://en.wikipedia.org/wiki/List_of_Benedict_Cumberbatch_performances" target="_blank">Wikipedia entry</a>.</h3>
 </body>
     </html>
+
+body {
+  font-family: 'Proza Libre', sans-serif;
+font-family: 'Open Sans', sans-serif;
+  background: url(https://wallpapercave.com/wp/wp2028652.jpg);
+   background-repeat: no-repeat;
+  background-size: 1800px 1480px;
+  }
+h1{
+  margin-left: 50%;
+  font-weight: normal;
+  font-size:60px;
+  text-decoration:underline;
+  color: #f4f3f3;
+  font-family: Proza Libre;
+}
+h2{
+  font-family:'Proza Libre', sans-serif;
+  font-size: 40px;
+  margin-left: 50%;
+  color:#ffffda;
+  text-decoration: overline;
+}
+p{
+  width: 680px;
+  border: 5px solid white;
+  border-radius: 25px;
+  padding: 30px;
+  margin: 60px;
+   color: #ece8d9;
+      text-align: justify;
+      margin-left: 50%;
+  margin-right: 2%
+}
+h3 {
+  margin-left: 50%;
+  color: #e36161;
+}
+   ul {
+    max-width: 600px;
+     border: 5px solid #b2e4d5;
+     border-radius: 5px ;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-right: 5px;
+     padding-left: 5px;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: #272121;
+      color: #e5dfdf;
+   margin-left: 50%;
+      text-align: center ;
+    } 
+    
+  
